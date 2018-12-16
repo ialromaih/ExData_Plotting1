@@ -1,4 +1,4 @@
-##Instructions
+## Instructions
 - download the data <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> and place it inside the ExData_Plotting1 folder.
 - run the plot1.R ... plot4.R scripts to generate the plots.
 
